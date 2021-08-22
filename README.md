@@ -1,0 +1,2 @@
+# Link
+[https://devblast.com/b/jutsu-15-building-blogging-web-api-grape-mongodb-json-api-specification/](https://devblast.com/b/jutsu-15-building-blogging-web-api-grape-mongodb-json-api-specification/)
